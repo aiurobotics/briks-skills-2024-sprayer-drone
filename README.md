@@ -1,21 +1,17 @@
-# BRICS Skills Aerial Robotics Hackathon: Autonomous Pesticide Sprayer Project
+# BRICS Skills Aerial Robotics Hackathon: Autonomous Pesticide Sprayer
 
 ## Description
 
-The **Autonomous Pesticide Sprayer Project** aims to develop a robust and efficient aerial robotic system designed for automated pesticide spraying in agricultural fields. The goal of the project is to provide a cost-effective, scalable, and eco-friendly solution to modernize crop protection. By leveraging drone technology and autonomous navigation systems, the project seeks to reduce manual labor, optimize pesticide use, and improve crop yield.
+The **Autonomous Pesticide Sprayer** is a drone system designed to automate pesticide spraying in agricultural fields. Its goal is to reduce manual labor, improve precision in spraying, and enhance crop yield. Using GPS and sensors, the drone flies autonomously, avoids obstacles, and sprays pesticides evenly, minimizing chemical waste. A mobile app allows farmers to monitor the process in real-time.
 
-### Main Functions:
-- **Autonomous Flight**: The drone autonomously navigates the fields based on predefined routes using GPS and real-time sensor data.
-- **Pesticide Spraying**: The drone is equipped with high-precision nozzles to spray pesticides uniformly, reducing wastage.
-- **Obstacle Detection**: With integrated LiDAR and camera sensors, the system avoids obstacles like trees, utility poles, or uneven terrain.
-- **Remote Monitoring**: The system allows real-time monitoring and control through a mobile app, ensuring flexibility and adaptability.
-- **Data Collection**: It collects data on crop health, field conditions, and pesticide usage to improve future applications.
-  
-## Market Analysis and Target User Group
-Our target users are **small-to-medium-scale farmers and agricultural enterprises** in developing countries, particularly within the BRICS nations. These users often struggle with labor shortages, high operational costs, and inefficiencies in crop protection. This drone-based solution offers them a way to enhance productivity and reduce overhead.
-Currently, several aerial pesticide spraying solutions exist, including systems from companies like **DJI** and **XAG**. However, these solutions often come with high upfront costs and are not always accessible to small and medium-sized farms. Our project aims to develop a more affordable and scalable solution, specifically catering to users in developing regions. The global market for agricultural drones is expected to grow rapidly, with projections estimating a **CAGR of 21.3%** from 2021 to 2026. There is an increasing demand for automation and precision agriculture, making our solution well-positioned to tap into this market.
+### Problem Solved
+Traditional pesticide application is labor-intensive and inefficient, exposing workers to chemicals and leading to uneven spraying. Our drone offers a safer, faster, and more efficient solution.
 
-## Team
+### Target Users
+We aim to help small-to-medium farmers in developing regions, especially within BRICS countries, who face challenges like high labor costs and inefficient crop management.
+
+### Market Analysis
+While competitors like **DJI** and **XAG** offer similar products, their high costs limit accessibility for small farms. Our solution is more affordable and tailored to developing markets.
 
 - **Project Lead**: Ruslan Isaev
 - **Software Engineer** + **Hardware Engineer**: Nursultan Kurmanbekov
