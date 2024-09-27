@@ -24,5 +24,6 @@ Our team follows the **Kanban methodology** to manage project tasks. Each team m
 
 ## Process
 
-![img](./img/3dprinted.jpg)
-![img](./img/pump_test.jpg)
+[Pump test video](https://youtu.be/u9CQ2qL3jAg)
+<img src="./img/3dprinted.jpg" alt="3d printed" width="200"/>
+<img src="./img/pump_test.jpg" alt="pump test" width="200"/>
