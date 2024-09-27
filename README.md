@@ -21,3 +21,8 @@ Our team follows the **Kanban methodology** to manage project tasks. Each team m
 
 ## Table with Task
 [https://docs.google.com/spreadsheets/d/1fk5E8hwK-zvWmGShfbh-9VnHwFDglQv1SM98T00Ny1A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1fk5E8hwK-zvWmGShfbh-9VnHwFDglQv1SM98T00Ny1A/edit?usp=sharing)
+
+## Process
+
+![img](./img/3dprinted.jpg)
+![img](./img/pump_test.jpg)
